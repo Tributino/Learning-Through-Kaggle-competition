@@ -2,13 +2,25 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Project Idea
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The aim of this project is to gain knowledge through Kaggle Competitions to become a Data Science. The idea is to solve and/or deeply analyze Kaggle competitions, where each action(code) has a clear explanation in orderto master the tools used.
 
-### Prerequisites
+We will learning basic fundamental skills such as 
+- DataFrames in pandas, 
+- Arrays, matrices, and mathematical functions in Numpy
+- Plot figures in matplotlib, 
+- Import and train models from scikit-learn.
+- Basic Machine Learning models
 
-What things you need to install the software and how to install them
+Also, more advanced topics:
+
+- Generate new features 
+- Improve predictions by Nearest Neighbors, Aggregate data and Mean /Target Encoding.
+- Tune hyperparameter
+- Combine different Machine Learning Models
+
+I hope that this project help me and others to activate and accelerate the career in data science.
 
 ```
 Give examples
