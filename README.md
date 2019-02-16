@@ -1,7 +1,5 @@
 # Learning Through Kaggle Competition
 
-One Paragraph of project description goes here
-
 ## Project Idea
 
 The aim of this project is to gain knowledge through Kaggle Competitions to become a Data Science. The idea is to solve and/or deeply analyze Kaggle competitions, where each action(code) has a clear explanation in orderto master the tools used.
@@ -20,7 +18,7 @@ Also, more advanced topics:
 - Tune hyperparameter
 - Combine different Machine Learning Models
 
-I hope that this project help me and others to activate and accelerate the career in data science.
+*I hope that this project help me and others to activate and accelerate the career in data science.*
 
 ```
 Give examples
