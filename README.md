@@ -1,4 +1,8 @@
+
+<img align="top" src="images/kaggle.png" width= "100" height="100">
+
 # Learning Through Kaggle Competition
+
 
 ## Project Idea
 
