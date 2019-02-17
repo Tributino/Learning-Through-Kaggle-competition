@@ -6,21 +6,23 @@
 
 ## About this Project
 
-The aim of this project is to gain knowledge through Kaggle Competitions to become a Data Science. The idea is to solve and/or deeply analyze Kaggle competitions, where each action(code) has a clear explanation in orderto master the tools used.
+The aim of this project is to gain knowledge through Kaggle competitions to become a Data Science. The idea is to solve and/or deeply analyze Kaggle competitions, where each action (code) has a clear explanation in order to master the tools used.
 
-We will learning basic fundamental skills such as 
-- DataFrames in pandas, 
-- Arrays, matrices, and mathematical functions in Numpy
-- Plot figures in matplotlib, 
-- Import and train models from scikit-learn.
-- Basic Machine Learning models
+We will learn basic, but fundamental skills such as 
+
+- DataFrames in pandas; 
+- Arrays, matrices, and mathematical functions in Numpy;
+- Plot figures in matplotlib;
+- Import and train models from scikit-learn;
+- Basic Machine Learning models;
 
 Also, more advanced topics:
 
-- Generate new features 
-- Improve predictions by Nearest Neighbors, Aggregate data and Mean /Target Encoding.
-- Tune hyperparameter
-- Combine different Machine Learning Models
+- Generate new features; 
+- Improve predictions by Nearest Neighbors;
+- Aggregate data and Mean /Target encoding;
+- Tune hyperparameters;
+- Combine different Machine Learning models;
 
 
 ## Authors
@@ -30,5 +32,3 @@ Also, more advanced topics:
 
 See also the list of [contributors](https://github.com/Tributino/Learning-Through-Kaggle-competition/contributors) who participated in this project.
 
-
-*I hope that this project help me and others to activate and accelerate the career in data science.*
