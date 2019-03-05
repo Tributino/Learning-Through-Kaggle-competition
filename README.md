@@ -24,6 +24,10 @@ Also, more advanced topics:
 - Tune hyperparameters;
 - Combine different Machine Learning models;
 
+## Note
+
+This project is still running, there will be a presentation at the Fields Institute in this subject, also different models will be compared and reference to the literature will be performed.
+
 
 ## Authors
 
